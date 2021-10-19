@@ -1,11 +1,11 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: artchang
+  site_tagline: Art Chang
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
-  logo_width: 200
+  logo_image: /images/header.png
+  logo_width: 100
 
 menu_settings:
   menu_items:
@@ -30,8 +30,8 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
-  instagram_url: ''
+  twitter_url: 'https://twitter.com/art_chang'
+  instagram_url: 'https://instagram.com/artchang'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -54,7 +54,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://linkedin.com/in/arthurchang'
 
 color_settings:
   background_color: '#ffffff'

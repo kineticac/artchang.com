@@ -1,7 +1,7 @@
-site: Index Jekyll Theme
+site: Art Chang
 
-url: https://index.jekyllthemes.io
-baseurl: 
+url: https://artchang.com
+baseurl: https://artchang.com
 
 collections:
   pages:
